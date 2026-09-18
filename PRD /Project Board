@@ -1,0 +1,76 @@
+Project Board
+
+| Project Task           | Description                                                                          | Priority | Status      |
+| ---------------------- | ------------------------------------------------------------------------------------ | -------- | ----------- |
+
+| Project Setup          | Create the BuildIT Godot project and configure the mobile project settings           | High     | Completed   |
+
+| Project Structure      | Organize scenes, scripts, images, audio, and data files                              | High     | In Progress |
+
+| Main Menu              | Create the main menu with Start Game, Learn, Settings, Quiz, and Exit                | High     | To Do       |
+
+| Settings               | Create sound, music, control, and other game settings                                | Medium   | To Do       |
+
+| Learn Section          | Create an educational section explaining computer components                         | Medium   | To Do       |
+
+| Component Information  | Add information about CPU, motherboard, RAM, storage, PSU, GPU, and other components | Medium   | To Do       |
+
+| Assembly Workspace     | Create the main computer assembly area                                               | High     | In Progress |
+
+| Component Panel        | Create the list of components available to the player                                | High     | In Progress |
+
+| Component Images       | Import and organize images for the computer components                               | High     | To Do       |
+
+| Drag and Drop          | Make components draggable using touch input                                          | High     | In Progress |
+
+| Drop Zones             | Create the correct locations where components can be installed                       | High     | To Do       |
+
+| Component Validation   | Check whether the selected component is placed in the correct location               | High     | To Do       |
+
+| Correct Feedback       | Display a message when the player installs a component correctly                     | High     | To Do       |
+
+| Incorrect Feedback     | Display an error message and hint when the player places a component incorrectly     | High     | To Do       |
+
+| Assembly Sequence      | Control the required order of component installation                                 | High     | To Do       |
+
+| Progress System        | Track how many assembly steps have been completed                                    | High     | To Do       |
+
+| Scoring System         | Calculate points based on correct installations and mistakes                         | Medium   | To Do       |
+
+| Hint System            | Provide instructions when the player needs help                                      | Medium   | To Do       |
+
+| PC Completion          | Detect when all required components have been installed                              | High     | To Do       |
+
+| Boot Test              | Simulate starting the completed computer                                             | Medium   | To Do       |
+
+| Results Screen         | Display the player's assembly performance and score                                  | Medium   | To Do       |
+
+| Quiz System            | Create questions about components and computer assembly                              | Medium   | To Do       |
+
+| Quiz Results           | Display the player's quiz score and performance                                      | Medium   | To Do       |
+
+| Save System            | Save player progress, scores, and completed activities                               | Low      | To Do       |
+
+| Load System            | Restore previously saved player progress                                             | Low      | To Do       |
+
+| Audio                  | Add sound effects and background music                                               | Low      | To Do       |
+
+| Animation              | Add simple animations for component installation and feedback                        | Low      | To Do       |
+
+| User Interface Testing | Check buttons, menus, text, panels, and screen layout                                | High     | To Do       |
+
+| Gameplay Testing       | Test the complete assembly process from beginning to end                             | High     | To Do       |
+
+| Mobile Testing         | Test touch controls and screen scaling on an Android device                          | High     | To Do       |
+
+| Bug Fixing             | Identify and fix errors discovered during testing                                    | High     | To Do       |
+
+| Performance Testing    | Check loading, responsiveness, and overall game performance                          | Medium   | To Do       |
+
+| Final Documentation    | Complete system documentation, user flow, architecture, and requirements             | High     | To Do       |
+
+| GitHub Version 1       | Upload the first working version of the project                                      | High     | To Do       |
+
+| Final Build            | Prepare the final Android version of BuildIT                                         | High     | To Do       |
+
+| Final Evaluation       | Conduct user testing and collect evaluation results                                  | High     | To Do       |
